@@ -23,7 +23,7 @@
 <br /><br />
 
 
-## 팀원 소개 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1668404990/noticon/vvlwk62hghkmolj6swij.png" width="30">
+##  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1668404990/noticon/vvlwk62hghkmolj6swij.png" width="30"> 팀원 소개
 
 <table>
 <tr>
@@ -45,8 +45,7 @@
 
 <br /><br />
 
-## 주요 기능 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30">
-
+## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30"> 주요 기능 
 <table>
     <tr>
       <td align="center">홈페이지</td>
@@ -76,15 +75,15 @@
 
 <br /><br />
 
-## 기술 스택 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30">
+## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30"> 기술 스택
 
-### 프론트엔드 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568683636/noticon/hkuhbyocl2mx2keas7ng.png" width="20">
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568683636/noticon/hkuhbyocl2mx2keas7ng.png" width="20"> 프론트엔드
 
 ![img](https://user-images.githubusercontent.com/74996516/228413327-4e31ddb7-788a-4039-8639-675b2395f83c.png)
 
 <br />
 
-### 백엔드 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png" width="20">
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png" width="20"> 백엔드
 
 ![img](https://user-images.githubusercontent.com/74996516/228412984-0cde015d-551f-4d48-9ad6-64c1d1dff03a.png)
 
