@@ -89,21 +89,25 @@
 
 <br /><br />
 
-## 아키택쳐
+## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30"> 아키택쳐
+
 ### 🎁 Now
 ![image](https://user-images.githubusercontent.com/10546369/228410730-b254e680-e29b-4f1b-b429-c825fca97073.png)
-<br /><br />
+
+<br />
 
 ### 🎞 Privious
 ![image](https://user-images.githubusercontent.com/10546369/228411662-7f6a658b-7aed-43ba-afd7-3c1489ff91fc.png)
+
 <br /><br />
 
 ## 🚀 CI/CD
-### .gitlab.ci
+### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913837/noticon/xbgvzmnv8flg8wcbtr3w.png" width="20" />.gitlab.ci
+
 ![image](https://user-images.githubusercontent.com/10546369/228411382-de374610-d401-4278-8730-3a6b07e3ec85.png)
 <br /><br />
 
-## 🔗설계 링크
+## 🔗 설계 링크
 - [프로젝트 일정 관리]()
 - [요구사항 명세서](https://docs.google.com/spreadsheets/d/1D3msOqFlDn56cpEK7gpjG3vZ0YlrxhClL3Rwe2XgfOg/edit#gid=283869447)
 - [기능 명세 (Process flowchart)](https://mentoring-gitlab.gabia.com/mentee/mentee_2023.01/team/gabia_b_shop_backend/-/wikis/%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C(Process-flow-chart))
@@ -126,4 +130,7 @@
 - [Redis 사용 예시](https://github.com/g-market/b-shop-backend/wiki/Redis-%EC%82%AC%EC%9A%A9-%EC%98%88%EC%8B%9C)
 - [Redis Command 접속 및 사용](https://github.com/g-market/b-shop-backend/wiki/Redis-Command-%EC%A0%91%EC%86%8D-%EB%B0%8F-%EC%82%AC%EC%9A%A9)
 - [Redis Transactional 적용](https://github.com/g-market/b-shop-backend/wiki/Redis-Transactional)
-<br /><br />
+
+<br />
+
+team G-market의 자세한 WIKI는 [팀위키](https://github.com/g-market/b-shop-backend/wiki)에서 볼 수 있어요 📚
