@@ -45,11 +45,48 @@
 
 <br /><br />
 
-## 주요 기능
+## 주요 기능 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30">
+
+<table>
+    <tr>
+      <td align="center">홈페이지</td>
+      <td align="center">OAuth2.0 로그인</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://user-images.githubusercontent.com/74996516/228409543-989a8deb-19c3-461e-a5b9-4934ca6a1aac.gif" width="500" /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/74996516/228409377-bb12d150-c4c0-4878-b6d3-7eebca2967e9.gif" width="500" /></td>
+    </tr>
+    <tr>
+      <td align="center">상품 상세 조회</td>
+      <td align="center">상품 예약 조회</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://user-images.githubusercontent.com/74996516/228411154-434736ba-076e-49ef-a087-3153f737c30d.gif" width="500" /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/74996516/228411576-4cc07ce4-45f7-400d-af9a-83bf2aa45952.gif" width="500" /></td>
+    </tr>
+    <tr>
+      <td align="center">바로 주문</td>
+      <td align="center">장바구니 주문</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://user-images.githubusercontent.com/74996516/228411798-223e8429-aef3-4744-9d97-ef87a6fa2dbd.gif" width="500" /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/74996516/228411878-9c6c0052-82b4-460f-976a-f711cb97e3b4.gif" width="500" /></td>
+    </tr>
+ </table>
 
 <br /><br />
 
-## 기술 스택
+## 기술 스택 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif" width="30">
+
+### 프론트엔드 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568683636/noticon/hkuhbyocl2mx2keas7ng.png" width="20">
+
+![img](https://user-images.githubusercontent.com/74996516/228413327-4e31ddb7-788a-4039-8639-675b2395f83c.png)
+
+<br />
+
+### 백엔드 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png" width="20">
+
+![img](https://user-images.githubusercontent.com/74996516/228412984-0cde015d-551f-4d48-9ad6-64c1d1dff03a.png)
 
 <br /><br />
 
