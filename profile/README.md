@@ -10,7 +10,7 @@
         <a href="http://b-shop.h2nry.com/" target="_blank">지금 바로 사용해보실래요?</a>
     </p>
     <a href="https://github.com/g-market/b-shop-backend/wiki" target="_blank">팀위키</a> &nbsp; &nbsp; |&nbsp; &nbsp; 
-    <a href="https://docs.google.com/presentation/d/1H1OtCLA6EkHlrY2eDrQZTqcI1_02haDdAOY56wOHbPs/edit#slide=id.g21fb64ded0e_0_361" target="_blank">발표자료</a>
+    <a href="https://docs.google.com/presentation/d/1H1OtCLA6EkHlrY2eDrQZTqcI1_02haDdAOY56wOHbPs/edit#slide=id.p" target="_blank">발표자료</a>
     <br /><br />
     <img src="http://mentoring-gitlab.gabia.com/mentee/mentee_2023.01/team/g-market/gabia_b_shop_backend/badges/develop/pipeline.svg" />
     <img src="http://mentoring-gitlab.gabia.com/mentee/mentee_2023.01/team/g-market/gabia_b_shop_backend/badges/develop/coverage.svg"/>
