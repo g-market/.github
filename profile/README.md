@@ -28,7 +28,7 @@
 <table>
 <tr>
   <td align="center"><img src="https://github.com/halucinor.png" width="160"></td>
-  <td align="center"><img src="https://github.com/haaeee.png" width="160"></td>
+  <td align="center"><img src="https://github.com/rhakdnj.png" width="160"></td>
   <td align="center"><img src="https://github.com/rkdud1108.png" width="160"></td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/halucinor" target="_blank">@halucinor</a></td>
-  <td align="center"><a href="https://github.com/haaeee" target="_blank" width="160">@haaeee</a></td>
+  <td align="center"><a href="https://github.com/rhakdnj" target="_blank" width="160">@rhakdnj</a></td>
   <td align="center"><a href="https://github.com/rkdud1108" target="_blank">@rkdud1108</a></td>
 </tr>
 </table>
