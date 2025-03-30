@@ -28,7 +28,7 @@
 <table>
 <tr>
   <td align="center"><img src="https://github.com/halucinor.png" width="160"></td>
-  <td align="center"><img src="https://github.com/rhakdnj.png" width="160"></td>
+  <td align="center"><img src="https://github.com/jongmin-chung.png" width="160"></td>
   <td align="center"><img src="https://github.com/rkdud1108.png" width="160"></td>
 </tr>
 <tr>
