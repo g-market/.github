@@ -38,7 +38,7 @@
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/halucinor" target="_blank">@halucinor</a></td>
-  <td align="center"><a href="https://github.com/rhakdnj" target="_blank" width="160">@rhakdnj</a></td>
+  <td align="center"><a href="https://github.com/jongmin-chung" target="_blank" width="160">@jongmin-chung</a></td>
   <td align="center"><a href="https://github.com/rkdud1108" target="_blank">@rkdud1108</a></td>
 </tr>
 </table>
